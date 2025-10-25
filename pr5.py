@@ -23,4 +23,5 @@ vowels in a new list'''
 
 '''So i'm getting the 5 input names from user and created one new empty list'''
 
-'''Then we have to create one variable to store the vowel words, then we will 
+'''Then we have to create one variable to store the vowel words, then we will compare the index value a[0]
+ie, the first letter of every words and if it's vowel, then we'll add it to that new list using "listname.append(named variable).'''
