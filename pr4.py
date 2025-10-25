@@ -8,6 +8,9 @@ number = int(input("Enter any number:"))
 #to print the statement        
 print("Factor of a given number is") 
 fact_num(number)
+
+#created a function to align the output as in format
+
       
         
         
