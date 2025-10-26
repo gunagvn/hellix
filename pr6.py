@@ -5,6 +5,6 @@ while True:
         print("Negative number")
         break
     val.append(num)
-print("the positive numbers",val)  
+ #print("the positive numbers",val)  
     
     
